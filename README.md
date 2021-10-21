@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a software developer from Split, Croatia
+I'm a software engineer from Split, Croatia
 
-- Linkedin 
+- Linkedin: 
   -   https://www.linkedin.com/in/ivan-pavi%C4%8Di%C4%87-b65a0763/
-- Codewars
+- Stack overflow:</br>
+<a href="https://stackoverflow.com/users/2335799/ivan-pavi%c4%8di%c4%87"><img src="https://stackoverflow.com/users/flair/2335799.png" width="208" height="58" alt="profile for Ivan Pavičić at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ivan Pavičić at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+- Codewars:
 <img src = "https://www.codewars.com/users/ivpavici/badges/large" alt="Codewars badge"/>
 
 <!--
