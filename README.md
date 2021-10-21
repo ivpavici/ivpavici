@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a software developer from Split, Croatia
+
+- Linkedin 
+  -   https://www.linkedin.com/in/ivan-pavi%C4%8Di%C4%87-b65a0763/
+- Codewars
+<img src = "https://www.codewars.com/users/ivpavici/badges/large" alt="Codewars badge"/>
+
 <!--
 **ivpavici/ivpavici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
