@@ -1,14 +1,43 @@
 ### Hi there 👋
 
-I'm a software engineer from Split, Croatia
+I'm a software engineer from Split, Croatia.
 
-- Linkedin profile: </br>
-<a href="https://www.linkedin.com/in/ivan-pavi%C4%8Di%C4%87-b65a0763/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-alt="Linkedin" style="max-width: 100%;"></a>
-- Stack overflow:</br>
-<a href="https://stackoverflow.com/users/2335799/ivan-pavi%c4%8di%c4%87"><img src="https://stackoverflow.com/users/flair/2335799.png?theme=dark" width="208" height="58" alt="profile for Ivan Pavičić at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ivan Pavičić at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-- Codewars:
-<img src = "https://www.codewars.com/users/ivpavici/badges/large" alt="Codewars badge"/>
+#### Find me on:
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/ivan-pavi%C4%8Di%C4%87-b65a0763/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="max-width: 100%;">
+  </a>
+  <a href="https://stackoverflow.com/users/2335799/ivan-pavi%c4%8di%c4%87">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack overflow" style="max-width: 100%;">
+  </a>
+  <a href="https://www.codewars.com/users/ivpavici/badges/large">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/ivpavici">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="max-width: 100%;">
+  </a>
+</p>
+
+#### I build with:
+
+<p dir="auto">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".net" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio" style="max-width: 100%;">
+</p>
+
+#### ... and sometimes with:
+
+<p dir="auto">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue.js" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="max-width: 100%;">
+</p>
+
+
 
 <!--
 **ivpavici/ivpavici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
