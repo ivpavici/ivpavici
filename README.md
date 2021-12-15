@@ -2,8 +2,9 @@
 
 I'm a software engineer from Split, Croatia
 
-- Linkedin: 
-  -   https://www.linkedin.com/in/ivan-pavi%C4%8Di%C4%87-b65a0763/
+- Linkedin profile: </br>
+<a href="https://www.linkedin.com/in/ivan-pavi%C4%8Di%C4%87-b65a0763/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+alt="Linkedin" style="max-width: 100%;"></a>
 - Stack overflow:</br>
 <a href="https://stackoverflow.com/users/2335799/ivan-pavi%c4%8di%c4%87"><img src="https://stackoverflow.com/users/flair/2335799.png?theme=dark" width="208" height="58" alt="profile for Ivan Pavičić at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ivan Pavičić at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 - Codewars:
