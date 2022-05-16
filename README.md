@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer from Split, Croatia.
+I'm a software engineer / manager from Split, Croatia.
 
 #### Find me on:
 <p dir="auto">
