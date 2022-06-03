@@ -18,6 +18,7 @@ I'm a software engineer / manager from Split, Croatia.
   </a>
 </p>
 
+<!--
 #### I build with:
 
 <p dir="auto">
@@ -37,9 +38,6 @@ I'm a software engineer / manager from Split, Croatia.
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" style="max-width: 100%;">
 </p>
 
-
-
-<!--
 **ivpavici/ivpavici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
