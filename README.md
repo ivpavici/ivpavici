@@ -4,6 +4,9 @@ I'm a software engineer / manager from Croatia.
 
 #### Find me on:
 <p dir="auto">
+  <a href="https://www.linkedin.com/in/ivan-pavi%C4%8Di%C4%87-b65a0763/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="max-width: 100%;">
+  </a>
   <a href="https://stackoverflow.com/users/2335799/ivpavici" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack overflow" style="max-width: 100%;">
   </a>
