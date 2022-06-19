@@ -16,6 +16,10 @@ I'm a software engineer / manager from Croatia.
   <a href="https://twitter.com/ivpavici" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="max-width: 100%;">
   </a>
+  <a href="https://www.freecodecamp.org/ivpavici" target="_blank">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp" style="max-width: 100%;">
+  </a>
+  
 </p>
 
 <!--
