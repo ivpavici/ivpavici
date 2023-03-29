@@ -2,6 +2,8 @@
 
 I'm a software engineer / manager from Croatia.
 
+Doing my best to bring value in obvious and, sometimes, not so obvious ways :)
+
 #### Find me on:
 <p dir="auto">
   <a href="https://www.linkedin.com/in/ivan-pavicic/" target="_blank">
